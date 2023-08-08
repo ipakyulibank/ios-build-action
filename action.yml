@@ -28,9 +28,6 @@ inputs:
   project-path:
     description: "Project path"
     required: true
-  code-signing-identity:
-    description: "For example, iOS Distribution"
-    required: true
   team-id:
     description: "Team id"
     required: true
